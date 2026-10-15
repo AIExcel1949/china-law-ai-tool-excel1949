@@ -24,14 +24,18 @@
 
 ## 📦 安装
 
-当前最新版本：**v1.02**
+Windows 最新版本：**[v1.03](https://github.com/AIExcel1949/china-law-ai-tool-excel1949/releases/tag/v1.03)**（2026-10-15）
 
-- **Windows**：`AIOffice-Legal-AI-NSIS-Setup-1.02.exe`，双击按向导完成安装
+macOS 当前版本：**[v1.02](https://github.com/AIExcel1949/china-law-ai-tool-excel1949/releases/tag/v1.02)**；v1.03 暂仅提供 Windows 安装包。
+
+- **Windows**：[AIOffice-Legal-AI-NSIS-Setup-1.03.exe](https://github.com/AIExcel1949/china-law-ai-tool-excel1949/releases/download/v1.03/AIOffice-Legal-AI-NSIS-Setup-1.03.exe)，双击按向导完成安装
 - **macOS**：`AIOffice-Legal-AI-macOS-arm64-v1.02.dmg`，拖入「应用程序」文件夹
   （Apple Silicon / M 系列架构，macOS 11 及以上）
 
 安装包通过本仓库 **Release** 页面发布，校验值见同目录 `SHA256SUMS.txt`。
-历史版本可在 Release 列表中查看 v1.0.1 与 v1.0。
+历史版本及 macOS v1.02 安装包可在 Release 列表中查看。
+
+v1.03 修复民间借贷流水遗漏提示、部分计算器输入、备忘录保存、聊天备份合并及 Windows 命令与 OCR 互相影响等问题；主界面不再常驻展示二维码，激活及课程咨询联系信息保留在主动打开的窗口中。
 
 > v1.0 版本的 Release 名称中含「工作台」字样，为历史命名；自 v1.0.1 起产品名称统一为「法律 AI 工具箱」。
 
